@@ -34,6 +34,8 @@
 .filter
 {
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .filter-btn{
@@ -78,3 +80,7 @@
     /* height: 45%; */
 }
 
+.login{
+    padding: 0 20;
+    cursor: pointer;
+}
