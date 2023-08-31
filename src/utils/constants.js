@@ -8,3 +8,5 @@ export const IMG_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_l
 export const SWIGGY_API_URL =
   CORS_PROXY +
   "https://www.swiggy.com/dapi/restaurants/list/v5?lat=19.4198627&lng=72.8116591&page_type=DESKTOP_WEB_LISTING";
+
+export const ErrorUrl = "https://i.pinimg.com/originals/30/32/96/303296521d256bfbb17f76c3b3592738.png";

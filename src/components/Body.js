@@ -50,7 +50,7 @@ const Body = () => {
                     const filteredList = listOfRestraunt.filter(
                         (res) => res.info.avgRating > 4
                     );
-                setlistOfRestraunt(filteredList);
+                 setfilteredRestraunts(filteredList);
                 }}>Top rated Restraunts</button>
             </div>
             <div className="res-container">
