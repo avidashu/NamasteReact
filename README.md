@@ -1,2 +1,2 @@
 # NamasteReact
-[https://foodie0709.netlify.app/](URL)
+https://foodie0709.netlify.app/
